@@ -1,0 +1,11 @@
+# Android and Gradle generated files
+**/.idea/workspace.xml
+.gradle/
+**/build/
+**/local.properties
+*.iml
+**/captures/
+**/.externalNativeBuild/
+**/.cxx/
+**/*.apk
+**/*.aab

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Munch Mania</string>
+    <string name="name">Munch Mania</string>
+    <string name="phrase">Delivering Flavor at the Speed of Crave</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="don_t_have_an_account_sign_up">Don\'t have an account? Sign up</string>
+    <string name="password">Password</string>
+    <string name="user_name">User Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="email">Email</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="already_have_an_account_sign_in">Already have an account? Sign in</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
